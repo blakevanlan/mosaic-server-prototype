@@ -1,0 +1,20 @@
+{
+  "name": "mosaic-server-prototype",
+  "version": "0.0.0",
+  "description": "Mosaic prototype image server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakevanlan/mosaic-server-prototype.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "bd752014f4cb4963f9cad1a205b227f1c069956e",
+  "dependencies": {
+    "coffee-script": "x",
+    "express": "3.2.4"
+  }
+}
