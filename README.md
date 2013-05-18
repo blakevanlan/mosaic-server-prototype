@@ -14,7 +14,7 @@ Returns a static list of image urls in the following format
     "localhost:2100/images/frame100.jpg",
     "localhost:2100/images/frame101.jpg",
     ...
-    "localhost:2100/images/frame99.jpg",
+    "localhost:2100/images/frame99.jpg"
   }
 }
 ```
